@@ -3,12 +3,12 @@ Minha primeira API feita em NodeJS com node-express
 
 
 # Installations
-_npm i express --save_
+```npm i express --save```
 
 
 # Rodando a API
 
-_node index_
+```node index```
 
 A Api estará rodando por padrão na porta 3000
 
